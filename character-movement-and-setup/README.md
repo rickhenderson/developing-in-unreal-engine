@@ -1,3 +1,3 @@
 # Vault
 
-<img src="assets\">
+<img src="assets\vault-stage-01.png">

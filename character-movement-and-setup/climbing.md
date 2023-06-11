@@ -4,4 +4,4 @@ From Gorka's RPG Tutorial Series, Episode 50. This is the Climb blueprint to sna
 
 https://blueprintue.com/render/1riztjq9/
 
-
+<img src="assets\gorka-episode30-climb.png">

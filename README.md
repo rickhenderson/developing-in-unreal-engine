@@ -28,3 +28,7 @@ This lesson will explain how you can make a master material in Unreal Engine 5.1
 * [Camera Shake](https://www.youtube.com/watch?v=8eIavj62Mu8&t=15s) - William Faucher https://www.youtube.com/watch?v=8eIavj62Mu8&ab_channel=WilliamFaucher
 
 * [Basic Shake Instructions](add-camera-shake-to-a-clip.md)
+
+## Game Setup
+* [Set Third Person Character as True First Person] - <https://www.youtube.com/watch?v=jkPxVScULh4&ab_channel=JamesTheUEDev>
+  * This is perfect for many projects where you want first person, but thirdperson has all the great features you want to use, or you want to switch from one to the other. 

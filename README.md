@@ -1,5 +1,4 @@
-# Learn to make games and virtual worlds in Unreal Engine 5.1
-
+# Learn to make games and virtual worlds in Unreal Engine 5.x
 
 * <a href="create-master-material-unreal-engine-5.md">Create a master material in Unreal Engine 5</a>
 
@@ -32,3 +31,6 @@ This lesson will explain how you can make a master material in Unreal Engine 5.1
 ## Game Setup
 * [Set Third Person Character as True First Person] - <https://www.youtube.com/watch?v=jkPxVScULh4&ab_channel=JamesTheUEDev>
   * This is perfect for many projects where you want first person, but thirdperson has all the great features you want to use, or you want to switch from one to the other. 
+
+## Optimization
+* [Maximizing your game's performance](https://www.youtube.com/watch?v=GuIav71867E)

@@ -4,6 +4,14 @@ There are a number of components required for a comprehensive AI system.
 
 <img src="assets\ai_requirements.png">
 
+## Creation Steps
+
+1. Blueprint for AI - Mesh, Materials, Blueprint - based on Pawn or character class, or child of player class but use AI Controller.
+2. AI Controller
+3. Behaviour Tree
+4. Blackboard
+5. Set AI Controller to run the behaviour tree from Event Begin Play > Run AI Behaviour Tree
+
 
 
 # References

@@ -12,7 +12,9 @@ There are a number of components required for a comprehensive AI system.
 4. Blackboard
 5. Set AI Controller to run the behaviour tree from Event Begin Play > Run AI Behaviour Tree
 
+<img src="assets\ai_aic_run_bt.png">
 
+The AI_Controller class contains a **Action Component** and a **Path Following Component** so it may come in handy to learn about those in more detail. One great source of information is **ALWAYS** the [Unreal Documentation](https://docs.unrealengine.com/5.2/en-US/artificial-intelligence-in-unreal-engine/).
 
 # References
 

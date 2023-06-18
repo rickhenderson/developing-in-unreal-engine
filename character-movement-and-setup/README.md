@@ -13,7 +13,14 @@ Much of this information for the player character can be applied to AI controlle
 * To allow the animation blueprint to implment idle/walk/run as a single state, you need to place the 3 animations into a BlendSpace.
 * The legacy 1D BlendSpace is still avaible in the Legacy menu, but you should use the 2D blendsplace from now on.
 
-* 
+This image uses the new 2D BlendSpace, but is only using the Speed variable on one the horizontal axis.
+
+<img src="move_2d-blendspace.png">
+
+This image shows the BlendSpace for the Animation Starter Pack, available from the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack).
+
+<img src="move_2d-blendspace.png">
+
 
 
 # Vault

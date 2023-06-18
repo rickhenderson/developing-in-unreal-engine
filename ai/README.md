@@ -27,5 +27,6 @@ This blueprint is for the Behaviour Tree Task of having the AI move to a random 
 
 * [Ryan Layley's UE4 Third Person Shooter AI Tutorial](https://www.youtube.com/watch?v=DQqhJCoC4bQ&ab_channel=RyanLaley)
 * [Creating Game Ready AI - God Game with Unreal Developers](https://www.youtube.com/live/PgxuaTSkyu4?feature=share)
+* [Create Patrolling AI - Gorka Games RPG Tutorial Ep. 20](https://www.youtube.com/watch?v=UeG9RAVE8sE&ab)
 
 

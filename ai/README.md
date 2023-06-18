@@ -20,7 +20,7 @@ The AI_Controller class contains a **Action Component** and a **Path Following C
 
 This blueprint is for the Behaviour Tree Task of having the AI move to a random point within a customizable radius. **Radius** and **Stop Distance** were promoted to variables and are made editable from the outside.
 
-<iframe src="https://blueprintue.com/render/avtqtlbi/" scrolling="no" allowfullscreen></iframe>
+<a href="https://blueprintue.com/blueprint/avtqtlbi/"><img src="assets/ai_bt_task_random_patrol.png"></a>
 
 
 # References

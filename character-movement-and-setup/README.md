@@ -21,6 +21,10 @@ This image shows the BlendSpace for the Animation Starter Pack, available from t
 
 <img src="assets/move_2d-blendspace.png">
 
+Since the BlendSpace animations are updated based on Speed (and optionally, direction), the values for the Speed and Direction variables are calculated from the movement data of the character mesh - the character or AI blueprint. The variables are created in the Animation Blueprint by promoting the speed and direction needed for the blendspace.
+
+<img src="assets/move_abp_speed_direction.png">
+
 
 
 # Vault

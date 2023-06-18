@@ -25,7 +25,9 @@ Since the BlendSpace animations are updated based on Speed (and optionally, dire
 
 <img src="assets/move_abp_speed_direction.png">
 
+Now that the Speed variable has been set up in the Animation Blueprint (to feed into the Blendspace), the value is determined from the character movement component in the Event Graph of the character or NPC blueprint.
 
+*imgneeded*
 
 # Vault
 

@@ -1,3 +1,21 @@
+# Movement Setup
+
+Much of this information for the player character can be applied to AI controlled NPCs as well. You may want to consider fully fleshing out the movement of your player characater, and then making the AI NPCs a child class of your character.
+
+## Basic Walking and Moving
+
+* Download Assets from Mixamo
+* Download first just the character in T-Pose
+* For every animation, download without the skin.
+
+### Setting Up the BlendSpace
+
+* To allow the animation blueprint to implment idle/walk/run as a single state, you need to place the 3 animations into a BlendSpace.
+* The legacy 1D BlendSpace is still avaible in the Legacy menu, but you should use the 2D blendsplace from now on.
+
+* 
+
+
 # Vault
 
 <img src="assets\vault-stage-01.png">

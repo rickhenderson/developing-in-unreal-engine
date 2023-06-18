@@ -16,6 +16,13 @@ There are a number of components required for a comprehensive AI system.
 
 The AI_Controller class contains a **Action Component** and a **Path Following Component** so it may come in handy to learn about those in more detail. One great source of information is **ALWAYS** the [Unreal Documentation](https://docs.unrealengine.com/5.2/en-US/artificial-intelligence-in-unreal-engine/).
 
+### Roaming AI
+
+This blueprint is for the Behaviour Tree Task of having the AI move to a random point within a customizable radius. **Radius** and **Stop Distance** were promoted to variables and are made editable from the outside.
+
+<iframe src="https://blueprintue.com/render/avtqtlbi/" scrolling="no" allowfullscreen></iframe>
+
+
 # References
 
 * [Ryan Layley's UE4 Third Person Shooter AI Tutorial](https://www.youtube.com/watch?v=DQqhJCoC4bQ&ab_channel=RyanLaley)

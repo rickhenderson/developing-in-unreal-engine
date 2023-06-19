@@ -33,7 +33,7 @@ Now that the Speed variable has been set up in the Animation Blueprint (to feed 
 
 Open your character blueprint, click on the Character mesh, and in the details menu, find Animation Mode and set it to the new `Animation BlendSpace` you created.
 
-
+<img src="assets/move_abp_animation_mode.png">
 
 ### Testing
 

@@ -29,6 +29,10 @@ Now that the Speed variable has been set up in the Animation Blueprint (to feed 
 
 <img src="assets/move_abp_getting_speed.png">
 
+### Testing
+
+If you did everything up to this point, you should be able to play your character and see the different animations when you change speeds (walking faster).
+
 # Vault
 
 <img src="assets\vault-stage-01.png">

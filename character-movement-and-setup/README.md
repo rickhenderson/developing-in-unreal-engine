@@ -21,13 +21,13 @@ This image shows the BlendSpace for the Animation Starter Pack, available from t
 
 <img src="assets/move_2d-blendspace.png">
 
-Since the BlendSpace animations are updated based on Speed (and optionally, direction), the values for the Speed and Direction variables are calculated from the movement data of the character mesh - the character or AI blueprint. The variables are created in the Animation Blueprint by promoting the speed and direction needed for the blendspace.
+Since the BlendSpace animations are updated based on Speed (and optionally, direction), the values for the Speed and Direction variables are calculated from the movement data of the character's Pawn. The variables are created in the Animation Blueprint by promoting the `Speed` and `Direction` needed for the blendspace.
 
 <img src="assets/move_abp_speed_direction.png">
 
-Now that the Speed variable has been set up in the Animation Blueprint (to feed into the Blendspace), the value is determined from the character movement component in the Event Graph of the character or NPC blueprint.
+Now that the Speed variable has been set up in the Animation Blueprint (to feed into the Blendspace), the value is determined inside the event graph for the animation bluepritn.
 
-*imgneeded*
+<img src="assets/move_abp_getting_speed.png">
 
 # Vault
 

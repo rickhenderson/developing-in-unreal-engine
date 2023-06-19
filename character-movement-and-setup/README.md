@@ -29,6 +29,12 @@ Now that the Speed variable has been set up in the Animation Blueprint (to feed 
 
 <img src="assets/move_abp_getting_speed.png">
 
+### Setting the Animation Class
+
+Open your character blueprint, click on the Character mesh, and in the details menu, find Animation Mode and set it to the new `Animation BlendSpace` you created.
+
+
+
 ### Testing
 
 If you did everything up to this point, you should be able to play your character and see the different animations when you change speeds (walking faster).

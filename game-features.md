@@ -1,3 +1,6 @@
 # Game Features
 
-[[Motion Matching]]
+## Character Movement
+
+* (Motion Matching)[motion-matching.md]
+* 

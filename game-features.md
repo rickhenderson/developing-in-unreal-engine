@@ -2,5 +2,5 @@
 
 ## Character Movement
 
-* (Motion Matching)[motion-matching.md]
+* [Motion Matching](motion-matching.md)
 * 

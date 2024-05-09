@@ -13,9 +13,11 @@
 * Select all the animation sequences
 * Right-click and choose Actions > Migrate
 * Select the Content folder of the project you want to migrate the animations into
-* Close Unreal 5.2 but do not save it.
+* Close Unreal 5.2 but do not save it
 
-* Open up your new project in Unreal Engine 5.4 again.
+* Open up your new project in Unreal Engine 5.4 again
+* Create a Pose Search Schema
+* Choose the SK_Mannequin from Lyra (although it shouldn't matter, it's the same one)
   
 ### References
 

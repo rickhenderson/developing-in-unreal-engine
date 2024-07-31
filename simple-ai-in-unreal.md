@@ -26,6 +26,7 @@ In this example taken from Ryan Layley's UE4 tutorial, the Vector variable is ma
 I suggest following these tutorials in order if you have zero experience with AI in Unreal Engine 5.
 
 * [The Easiest Way to Make a Simple Enemy AI in Unreal 5.1](https://www.youtube.com/watch?v=xm-7m5Fw1HU&t) - [Gorka Games](https://www.youtube.com/@GorkaGames) - Uses Blueprints
+* If you're stuck, here is my Blueprint version: [Roam Around AI](https://blueprintue.com/blueprint/57brb9yx/)
 * [Behavior Tree Quick Start Guide](https://docs.unrealengine.com/5.1/en-US/behavior-tree-in-unreal-engine---quick-start-guide/) - Unreal Engine Documentation for Behavior Trees and Blackboards
 * [Behavior Tree Essentials](https://docs.unrealengine.com/5.1/en-US/behavior-tree-in-unreal-engine---overview/) - Unreal Engine Documentation
 

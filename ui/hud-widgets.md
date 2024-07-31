@@ -6,3 +6,7 @@ For your heads-up-display (HUD) - or information you want to show on the screen 
 * Double-click the widget blueprint to open it.
 * In the menu on the left, type in "Canvas" and drag a Canvas Panel into the working area in the centre. This makes it much easier to control where your UI widgets are placed on a variety of screen sizes.
 * Next, drag a text block onto the canvas where you want the speed to be displayed. You may have to remove the word "Canvas" from the search bar.
+
+<img src="assets/speed-hud-widget.jpg"/>
+
+* In the image above, I have changed the default text of the speed text box, and added a second textbox to the top of the screen for other debugging.

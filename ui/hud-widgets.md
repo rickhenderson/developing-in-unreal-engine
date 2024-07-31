@@ -19,6 +19,14 @@ For your heads-up-display (HUD) - or information you want to show on the screen 
 
 <img src="assets/widget-to-player-screen.jpg>
 
+* If you've connected everything up right, you should be able to play your game and see the text appear on the screen.
+  * If it doesn't show up, go back through all the steps again or watch the video below by NiceShadow.
+
+## Connecting a Variable
+
+* Now we have a way to show text on the screen, we want to be able to update it with our player speed.
+
+
 ## Example Videos
 
 * [Set Up HUD & UI Widget by NiceShadow](https://www.youtube.com/watch?v=YCQ1heoaILY&t=40s&ab_channel=NiceShadow)

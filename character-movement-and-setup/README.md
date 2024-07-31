@@ -25,7 +25,7 @@ Since the BlendSpace animations are updated based on Speed (and optionally, dire
 
 <img src="assets/move_abp_speed_direction.png">
 
-Now that the Speed variable has been set up in the Animation Blueprint (to feed into the Blendspace), the value is determined inside the event graph for the animation bluepritn.
+Now that the Speed variable has been set up in the Animation Blueprint (to feed into the Blendspace), the value is determined inside the event graph for the animation blueprint.
 
 <img src="assets/move_abp_getting_speed.png">
 

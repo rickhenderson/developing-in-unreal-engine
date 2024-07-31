@@ -4,6 +4,8 @@ There are a number of components required for a comprehensive AI system.
 
 <img src="assets\ai_requirements.png">
 
+*If you want just a simple roamer in blueprints, look [here](simple-ai-in-unreal.md).*
+
 ## Creation Steps
 
 1. Blueprint for AI - Mesh, Materials, Blueprint - based on Pawn or character class, or child of player class but use AI Controller.

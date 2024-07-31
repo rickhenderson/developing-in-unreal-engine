@@ -34,5 +34,6 @@ This is the blueprint for the Chase Player task from the Unreal Documentation fo
 * [Creating Game Ready AI - God Game with Unreal Developers](https://www.youtube.com/live/PgxuaTSkyu4?feature=share)
 * [Create Patrolling AI - Gorka Games RPG Tutorial Ep. 20](https://www.youtube.com/watch?v=UeG9RAVE8sE&ab)
 * [Unreal Docs: Behaviour Tree Quick Start Guide](https://docs.unrealengine.com/5.2/en-US/behavior-tree-in-unreal-engine---quick-start-guide/) ***
+* [Blueprint only Roamer - No AI]: (https://blueprintue.com/blueprint/57brb9yx/)
 
 
